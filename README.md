@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ipekk191
-- 👀 I’m interested in software engineering
+- 👀 I’m a software engineering student
 - 🌱 I’m currently learning C#, Python, ML...
 - 📫 How to reach me: https://www.linkedin.com/in/%C5%9Fevval-ipek-top%C3%A7u-9843692a8/
-- 😄 Pronouns: 2nd year software engineering student
+- 😄 Pronouns: 3nd year software engineering student
 - ⚡ Fun fact: I do karate and love horses:)
 
 <!---
